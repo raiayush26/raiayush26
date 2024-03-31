@@ -132,8 +132,8 @@ Next** - 📫 How to reach me **rai.ayush2610@gmail.com**
 ### Top Languages
 
 <p align="center">
-<a href = "https://github.com/raiayush2610">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiayush2610&layout=compact&theme=vision-friendly-dark"/>
+<a href = "https://github.com/raiayush26">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiayush26&layout=compact&theme=vision-friendly-dark"/>
 </a>
 </p>
 <br/>
